@@ -1,4 +1,5 @@
 {
-  "version": "2.0.0",
-  "notes": "Pierwsza wersja systemu aktualizacji JARVIS."
+  "version": "2.0.1",
+  "apkUrl": "https://github.com/13polik/jarvis-updates/releases/download/v2.0.1/JARVIS-AI-2.0.1.apk",
+  "notes": "Nowe załączniki z podglądem, mechanizm aktualizacji APK i poprawki interfejsu."
 }
